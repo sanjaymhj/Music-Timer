@@ -1,0 +1,113 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Music_Timer.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Music Timer" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="FAQ" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+        <TextBlock HorizontalAlignment="Left" Margin="12,132,0,-118" TextWrapping="Wrap" TextAlignment="Left" VerticalAlignment="Top" Height="754" Width="428" Grid.RowSpan="2">
+        	<Run Text=" 1. Starting Music Timer will automatically start the timer for "/>
+        	<Run Text="14">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FFF05757">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<Run Text=" "/>
+        	<Run Text="minutes ">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FFF05757">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<Run Text="as Average person needs "/>
+        	<Run Text="14 minutes ">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FFF05757">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<Run Text="to fall asleep."/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run Text="2. You can stop the timer and set the time of your choice."/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run Text="3. "/>
+        	<Run Text="EXITING">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FF238928">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<Run Text=" from the app  or "/>
+        	<Run Text="MINIMIZING">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FF238928">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<Run Text=" the app will exit the set timer."/>
+        	<LineBreak/>
+        	<Run Text=""/>
+        	<LineBreak/>
+        	<Run Text="4. Navigating away from Home page of Music Timer will also stop the timer."/>
+        	<LineBreak/>
+        </TextBlock>
+
+        <!--ContentPanel - place additional content here-->
+    </Grid>
+
+</phone:PhoneApplicationPage>

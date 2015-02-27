@@ -1,0 +1,28 @@
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\Bin\Debug\Music Timer.dll
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\Bin\Debug\Music Timer.pdb
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\Bin\Debug\AppManifest.xaml
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\Bin\Debug\Music_Timer_Debug_AnyCPU.xap
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\App.g.cs
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\MainPage.g.cs
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\Music Timer.g.resources
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\Music_Timer.Resources.AppResources.resources
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\Music Timer.csproj.GenerateResource.Cache
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\Music Timer.dll
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\Music Timer.pdb
+C:\Users\Sanjay Maharjan\Documents\Visual Studio 2013\Projects\Music Timer\Music Timer\obj\Debug\XapCacheFile.xml
+C:\Users\Sanjay Maharjan\documents\visual studio 2013\Projects\Music Timer\Music Timer\obj\Debug\FAQ.g.cs
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\Bin\Debug\Music Timer.dll
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\Bin\Debug\Music Timer.pdb
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\Bin\Debug\AppManifest.xaml
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\Bin\Debug\Music_Timer_Debug_AnyCPU.xap
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\App.g.cs
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\MainPage.g.cs
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\FAQ.g.cs
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\Music Timer.g.resources
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\Music_Timer.Resources.AppResources.resources
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\Music Timer.csproj.GenerateResource.Cache
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\Music Timer.dll
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\Music Timer.pdb
+C:\Users\Sanjay\Desktop\Music Timer\Music Timer\obj\Debug\XapCacheFile.xml
